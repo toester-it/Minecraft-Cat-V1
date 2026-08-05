@@ -13,6 +13,7 @@ The legs and the inner mechanism might look a bit odd, but I designed it this wa
   Personally, I used MG90 for the whole thing
 2.  Use a PCA9685 (servo driver) for all the servos. Originally, I didn't intend to use one and I saw my legs were glitching a lot (some would move to random angles spontaneously), but after using a PCA9685, it removed that issue and helped the servos move more smoothly.
 3.  Please be careful to not short circuit :,) I don't have a PCB designed for this (yet)
+4.  Everything is meant to be put together with M2 screws (8mm), except for the servos, use the screws that come with the servos to screw on any add ons.
 
 # Final Notes
 This was to mainly see how the cat would walk since that was my biggest worry, I didn't see a lot of guides on making cheap 4 legged robots so it was a big struggle to design this. I'm not a robotics, mechatronics, electrical, or mechanical student. The body and head might not attach correctly or it'll tip over due to uneven weight distribution, I don't know yet :P
