@@ -1,5 +1,6 @@
 # Minecraft-Cat-V1
 Code (Joystick transmitter &amp; Cat reciever) + 3D Models (Cat parts)
+TinkerCAD: https://www.tinkercad.com/things/lH2LceW6PMJ-minecraft-cat-v1
 
 # Preface
 The legs and the inner mechanism might look a bit odd, but I designed it this way so that it reduces the need for too many servos. Since it doesn't use that many servos, it's ability to move is quite limited compared to other quadruped robots, but Minecraft cats have relatively simple walking animations. 
