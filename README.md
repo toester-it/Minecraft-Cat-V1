@@ -7,7 +7,7 @@ The legs and the inner mechanism might look a bit odd, but I designed it this wa
 It can walk forward + backward, along with turning and a special trick (you can edit it to be whatever you want that trick to be!)
 
 # Recommendations
-1.  This cat uses around 7 Motors in total. You could use SG90's for the servos connected to the legs, but I really recommend using atleast 1 MG90 for the Rack & Pinion. The rack and Pinion handles a lot of weight (lifting the legs up and pushing the body down) and an SG90 might not provide enough torque or the inner plastic gears will strip. 
+1.  This cat uses around 7 Motors in total. You could use SG90's for the servos connected to the legs, but I really recommend using atleast 1 MG90 for the Rack & Pinion. The rack and Pinion handles a lot of weight (lifting the legs up and pushing the body up) and an SG90 might not provide enough torque or the inner plastic gears will strip. 
   Personally, I used MG90 for the whole thing
 2.  Use a PCA9685 (servo driver) for all the servos. Originally, I didn't intend to use one and I saw my legs were glitching a lot (some would move to random angles spontaneously), but after using a PCA9685, it removed that issue and helped the servos move more smoothly.
 3.  Please be careful to not short circuit :,) I don't have a PCB designed for this (yet)
