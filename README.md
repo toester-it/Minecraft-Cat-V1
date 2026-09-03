@@ -1,7 +1,8 @@
 # Minecraft-Cat-V1
 Code (Joystick transmitter &amp; Cat reciever) + 3D Models (Cat parts)
 TinkerCAD: https://www.tinkercad.com/things/lH2LceW6PMJ-minecraft-cat-v1
-Video links: 
+
+.Video links: 
 - https://www.instagram.com/p/DZ3h2ahhazg/ (pt 1)
 - https://www.instagram.com/p/Db1e2bLPgKe/ (pt 2)
             
